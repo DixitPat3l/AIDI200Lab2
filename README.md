@@ -20,3 +20,8 @@ A Logistic regression model is trained using the train data split. this step tra
 
 Step 5: Model Evaluation
 This step prints out the model metrics such as the classification report and the confusion matrix.
+
+
+The model created in this file can easily be trained on a different dataset by editing the line in the .ipynb file
+
+DataPath = r'C:\Users\dixit\DURHAM\ArtificialIntelligence\Semester 2\AIDI 2004\Week 4\breast+cancer+wisconsin+diagnostic\wdbc.data'
